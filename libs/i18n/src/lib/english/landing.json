@@ -1,0 +1,121 @@
+{
+  "bio": {
+    "heading": "Jimena Zapolski",
+    "caption": "Diseñadora UX/UI & Full Stack Developer",
+    "description": "Apasionada por crear sitios web intuitivos y de alto rendimiento. Tuve el privilegio de trabajar en proyectos de diversas industrias, combinando creatividad y estrategia para ofrecer soluciones digitales impactantes.",
+    "descriptionExtended": "",
+    "location": "",
+    "media": "/assets/hola.png",
+    "button": {
+      "link": "/bio",
+      "icon": {
+        "light": "/assets/icons/icon-2.svg",
+        "dark": "/assets/icons/icon.svg"
+      }
+    }
+  },
+  "credentials": {
+    "heading": "Experiencia",
+    "caption": "Un poco Sobre Mí",
+    "media": "/assets/credentials.png",
+    "button": {
+      "link": "/credentials",
+      "icon": {
+        "light": "/assets/icons/icon-2.svg",
+        "dark": "/assets/icons/icon.svg"
+      }
+    }
+  },
+  "cv": {
+    "heading": "Mis Proyectos",
+    "caption": "Portfolio",
+    "media": "/assets/portfolio.png",
+    "button": {
+      "link": "/portfolio",
+      "icon": {
+        "light": "/assets/icons/icon-2.png",
+        "dark": "/assets/icons/icon.svg"
+      }
+    }
+  },
+  "blog": {
+    "caption": "",
+    "heading": "",
+    "media": "/assets/logo/jz-violeta.png",
+    "button": {
+      "link": "/bio",
+      "icon": {
+        "light": "/assets/icons/icon-2.svg",
+        "dark": "/assets/icons/icon.svg"
+      }
+    }
+  },
+  "offerings": {
+    "heading": "Freelance",
+    "caption": "Explorá mis servicios como",
+    "link": "/offerings",
+    "icons": [
+      "iconoir-figma",
+      "iconoir-code",
+      "iconoir-adobe-illustrator",
+      "iconoir-adobe-photoshop"
+
+    ],
+    "button": {
+      "link": "/offerings",
+      "icon": {
+        "light": "/assets/icons/icon-2.svg",
+        "dark": "/assets/icons/icon.svg"
+      }
+    }
+  },
+  "profiles": {
+    "heading": "Contactame",
+    "caption": "Mis redes",
+    "media": null,
+    "button": {
+      "link": "/contact",
+      "icon": {
+        "light": "/assets/icons/icon-2.svg",
+        "dark": "/assets/icons/icon.svg"
+      }
+    },
+    "profiles": [
+      {
+        "link": "https://behance.net/jimezapolski",
+        "icon": "iconoir-behance-tag"
+      },
+      {
+        "link": "https://linkedin.com/in/sal-anvarov",
+        "icon": "iconoir-linkedin"
+      }
+    ]
+  },
+  "facts": {
+    "quickFacts": [
+      {
+        "count": "+4",
+        "label": "Años de <br /> Experiencia"
+      },
+      {
+        "count": "+20",
+        "label": "Clientes <br /> Contentos"
+      },
+      {
+        "count": "+40",
+        "label": "Proyectos <br /> Realizados"
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Trabajemos <br /> <span>juntos.</span>",
+    "media": "/assets/icons/icon2.png",
+    "button": {
+      "link": "/contact",
+      "icon": {
+        "light": "/assets/icons/icon-2.svg",
+        "dark": "/assets/icons/icon.svg"
+      }
+    }
+  }
+}

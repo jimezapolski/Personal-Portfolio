@@ -1,0 +1,109 @@
+{
+  "heading": "Servicios",
+  "navbar": {
+    "heading": null,
+    "entries": [
+      {
+        "icon": "iconoir-figma",
+        "text": "Prototyping",
+        "topics": [
+          "Wireframing",
+          "High-Fidelity Prototyping",
+          "Consulting & Strategy",
+          "Comprehensive Documentation"
+        ]
+      },
+      {
+        "icon": "iconoir-design-pencil",
+        "text": "DevOps",
+        "topics": [
+          "Continuous Integration and Deployment (CI/CD)",
+          "Containerization and Orchestration",
+          "Disaster Recovery",
+          "Training and Consultation"
+        ]
+      },
+      {
+        "icon": "iconoir-code",
+        "text": "Development",
+        "topics": [
+          "Web Development",
+          "Mobile App Development",
+          "API Development and Integration",
+          "Database Design and Management"
+        ]
+      }
+    ]
+  },
+  "offerings": [
+    {
+      "title": "Figma & Diseño Web",
+      "description": [
+        "- <b>Wireframing</b>: Desarrollo de maquetas interactivas en Figma para visualizar y planificar el flujo de usuario, ajustándome a los objetivos del negocio.",
+        "- <b>Prototipos de Alta Fidelidad</b>:  Creación de prototipos detallados e interactivos que simulan el producto final, incorporando transiciones y animaciones para mejorar la comprensión del flujo de usuario..",
+        "- <b>Sistemas de Diseño</b>: Implementación de bibliotecas de componentes reutilizables en Figma, asegurando consistencia y eficiencia en los proyectos.",
+        "- <b>Documentación y Colaboración</b>: Generación de guías completas y trabajo colaborativo en tiempo real para equipos multidisciplinarios."
+      ]
+    },
+    {
+      "title": "Desarrollo",
+      "description": [
+        "- <b>React y Next.js</b>:Construcción de interfaces modernas y dinámicas utilizando React y Next.js, optimizando la experiencia del usuario con aplicaciones rápidas y SEO-friendly.",
+        "- <b>Framer y Webflow</b>: Desarrollo de sitios web interactivos que combinan diseño y animación avanzada, con la capacidad de prototipar y desplegar soluciones completas sin comprometer la calidad.",
+        "- <b>HTML, CSS y JavaScript:</b>: Codificación limpia y organizada para interfaces responsivas y optimizadas..",
+        "- <b>Integración de API</b>: Implementación de soluciones conectadas que integran datos en tiempo real para mejorar la funcionalidad y el rendimiento del sitio."
+      ]
+    },
+    {
+      "title": "Adobe Illustrator & Photoshop",
+      "description": [
+        "- <b>Diseño de Comunicación Visual</b>:Creación de identidades visuales, logotipos y gráficos que comuniquen los valores esenciales de la marca.",
+        "- <b>Diseño para Materiales Promocionales</b>: Desarrollo de contenido visual para redes sociales, campañas de marketing y material publicitario.",
+        "- <b>Edición y Composición de Imágenes</b>:Retoque profesional y montaje creativo que maximiza el impacto de las piezas visuales.",
+        "- <b>Coherencia Visual</b>: Colaboración entre diseño gráfico, prototipado y desarrollo para garantizar que cada proyecto sea visualmente consistente y técnicamente funcional."
+      ]
+    },
+    {
+      "title": "Experiencia Integral",
+      "description": [
+        "Mis servicios combinan creatividad, diseño y desarrollo técnico para brindar soluciones completas. Desde la creación de prototipos interactivos y el diseño gráfico, hasta el desarrollo web y la implementación, garantizo que cada proyecto sea coherente, eficiente y orientado a las necesidades del cliente y los usuarios."
+      ]
+    }
+  ],
+  "profiles": {
+    "heading": "Profiles",
+    "caption": "Stay Connected",
+    "media": null,
+    "button": {
+      "link": "/contact",
+      "icon": "/assets/icons/cta-icon.svg"
+    },
+    "profiles": [
+      {
+        "link": "https://behance.net/jimezapolski",
+        "icon": "iconoir-behance-tag"
+      },
+      {
+        "link": "https://linkedin.com/in/jimena-zapolski",
+        "icon": "iconoir-linkedin"
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Let's <br /> <span>collaborate.</span>",
+    "media": "/assets/icons/icon2.png",
+    "button": {
+      "link": "/contact",
+      "icon": "/assets/icons/cta-icon.svg"
+    }
+  },
+  "credentials": {
+    "heading": "Qualifications",
+    "caption": "A little on Sal",
+    "media": "/assets/signature.png",
+    "button": {
+      "link": "/credentials",
+      "icon": "/assets/icons/cta-icon.svg"
+    }
+  }
+}

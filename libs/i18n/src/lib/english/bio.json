@@ -1,0 +1,120 @@
+{
+  "bio": {
+    "media": "/assets/compu.png",
+    "details": {
+      "heading": "Sobre mí",
+      "name": "Jimena Zapolski",
+      "description": "Diseñadora UX/UI y Full Stack Dev junior enfocada en crear experiencias que nunca han visto antes."
+    }
+  },
+  "experience": {
+    "heading": "Experiencia Laboral",
+    "experience": [
+      {
+        "date": "2023 - Actualidad",
+        "title": "Diseñadora UX/UI",
+        "company": "Autonomo",
+        "description": "Proyectos Freelance de Diseño de Landing Page & Desarrollo"
+      },
+      {
+        "date": "2022 - Actualidad",
+        "title": "Docente de la materia Estructuras y Funcionamientos de los Sistemas Informáticos",
+        "company": "Escuela Técnica ORT",
+        "description": "Como docente, mi rol implica planificar clases dinámicas y participativas que aborden temas como emprendimiento en el mundo IT, diseño digital y metodologías ágiles. Algunos de los contenidos que se enseñan son la creación de startups, diseño de identidad de marca, prototipado de soluciones digitales impactantes y novedosas, así como metodologías ágiles como Scrum y Design Thinking, los modelos de negocio, el lienzo canvas y presentaciones efectivas. Además, trabajamos en habilidades transversales como trabajo en equipo, comunicación efectiva y gestión del tiempo."
+      },
+      {
+        "date": "2022 - Actualidad",
+        "title": "Docente de la materia Tratamiento de Imágenes por Medios Informáticos",
+        "company": "Escuela Técnica ORT",
+        "description": "En la materia se busca transmitir la capacidad de identificar y diferenciar los diversos elementos que intervienen en una pieza de comunicación visual, fomentando la capacidad de analizar, imaginar, proyectar y producir propuestas atractivas atraves de Illustrator y Photoshop."
+      },
+      {
+        "date": "2021 - 2023",
+        "title": "Asistente de Informática",
+        "company": "Escuela Técnica ORT",
+        "description": "Como asistente de la orientación, me encargué de la gestión de proyectos internos y brindé apoyo integral a los estudiantes de secundaria en diversos lenguajes de programación y herramientas de diseño como C#, JavaScript, HTML, CSS, Photoshop, Illustrator y Figma. Además, trabajé en conjunto con el equipo para mantener y cuidar los recursos de los laboratorios informáticos, y contribuí a la creación de contenido digital y la gestión de las redes sociales."
+      },
+      {
+        "date": "2020 - 2021",
+        "title": "Content Creator",
+        "company": "Pointer",
+        "description": "Mi rol abarcó la gestión de canales digitales para diversos clientes en los sectores de moda, bienes raíces, turismo y perfumería, mediante una comunicación estratégica. Desarrollé planes estratégicos en redes sociales adaptados a las necesidades específicas de cada cliente, colaborando estrechamente con diseñadores gráficos para producir contenido relevante. Además, utilicé el Business Manager de Facebook para implementar campañas publicitarias dirigidas y efectivas."
+      }
+    ]
+  },
+  "education": {
+    "heading": "Educación",
+    "education": [
+      {
+        "date": "2020-2024",
+        "degree": "Licenciatura en Tecnología Multimedial",
+        "university": "Universidad Maimonides"
+      },
+      {
+        "date": "2023",
+        "degree": "React JS",
+        "university": "Coderhouse"
+       },
+       {
+        "date": "2020",
+        "degree": "Diseño UX/UI",
+        "university": "Coderhouse"
+       },
+      {
+        "date": "2019-2020",
+        "degree": "Ingeniería en Sistemas de Información",
+        "university": "Universidad Tecnológica Nacional"
+      },
+      {
+        "date": "2014-2018",
+        "degree": "Bachillerato Técnico con Orientación en Informática y Medios de Comunicación",
+        "university": "Escuela Técnica ORT"
+      }
+    ]
+  },
+  "profiles": {
+    "heading": "",
+    "caption": "Contactame",
+    "media": null,
+    "button": {
+      "link": "/contact",
+      "icon": {
+        "light": "/assets/icons/icon-2.svg",
+        "dark": "/assets/icons/icon.svg"
+      }
+    },
+    "profiles": [
+      {
+        "link": "https://behance.net/jimezapolski",
+        "icon": "iconoir-behance-tag"
+      },
+      {
+        "link": "https://www.linkedin.com/in/jimena-zapolski/",
+        "icon": "iconoir-linkedin"
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Trabajemos <br /> <span>juntos.</span>",
+    "media": "/assets/icons/icon2.png",
+    "button": {
+      "link": "/contact",
+      "icon": {
+        "light": "/assets/icons/icon-2.svg",
+        "dark": "/assets/icons/icon.svg"
+      }
+    }
+  },
+  "credentials": {
+    "heading": "Calificaciónes",
+    "caption": "",
+    "media": "/assets/signature.png",
+    "button": {
+      "link": "/credentials",
+      "icon": {
+        "light": "/assets/icons/icon-2.png",
+        "dark": "/assets/icons/icon.png"
+      }
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "contact": {
+    "heading": "Contacto",
+    "mail": {
+      "heading": "Email",
+      "icon": "iconoir-mail",
+      "links": ["jimezapolski@gmail.com"]
+    },
+    "phone": {
+      "heading": "Contacto",
+      "icon": "iconoir-phone",
+      "links": [
+        {
+          "text": "WhatsApp",
+          "href": "https://wa.me/+5491132382575?text=Estoy%20interesado/a%20en%20trabajar%20con%20vos"
+        }
+      ]
+    },
+    "location": {
+      "heading": "Ubicación",
+      "icon": "iconoir-pin-alt",
+      "type": "Location",
+      "location": "Ciudad Autonoma de Buenos Aires, Argentina"
+    }
+  },
+  "profiles": {
+    "heading": "External",
+    "profiles": [
+      {
+        "link": "https://behance.net/jimezapolski",
+        "icon": "iconoir-behance-tag"
+      },
+      {
+        "link": "https://linkedin.com/in/jimena-zapolski/",
+        "icon": "iconoir-linkedin"
+      }
+    ]
+  },
+  "form": {
+    "heading": "Contame tu <span>proyecto.</span>",
+    "onCompletion": "¡El mensaje ha sido enviado!",
+    "button": {
+      "text": "Enviar"
+    }
+  }
+}
