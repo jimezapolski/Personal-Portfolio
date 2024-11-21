@@ -1,11 +1,11 @@
 {
-  "name": "@msanvarov/portfolio",
+  "name": "@jimezapolski/portfolio",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
     "start": "nx serve personal-portfolio",
     "lint": "nx run-many --target=lint",
-    "build": "nx run-many --target=build",
+    "build": "npx nx build personal-portfolio",
     "test": "nx run-many --target=test"
   },
   "private": true,

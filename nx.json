@@ -4,7 +4,8 @@
     "build": {
       "dependsOn": ["^build"],
       "inputs": ["production", "^production"],
-      "cache": true
+      "cache": true,
+      "executor": "@nrwl/webpack:webpack"
     },
     "e2e": {
       "inputs": ["default", "^production"],
@@ -61,5 +62,6 @@
       }
     }
   },
-  "nxCloudAccessToken": "NjVmNTNjOWUtZDFjYy00NDM4LWEyMmQtY2VjOWMyYzBiODY1fHJlYWQtd3JpdGU="
+  "nxCloudAccessToken": "NjVmNTNjOWUtZDFjYy00NDM4LWEyMmQtY2VjOWMyYzBiODY1fHJlYWQtd3JpdGU=",
+  "defaultProject": "personal-portfolio"
 }
